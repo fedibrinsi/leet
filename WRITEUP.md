@@ -42,7 +42,7 @@ to
 ## Step 4: Accessing the Secret Profile
 
 When you visit `/student/1337`, you are presented with a special profile:  
-**FEDI BRINSI THE ARCHITECT OF REALITIES**  
+**THE ARCHITECT OF REALITIES**  
 This profile is not listed in the student directory and cannot be accessed via the login form.
 
 ---
